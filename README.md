@@ -1,4 +1,4 @@
-Sssscanner
+Scanner
 =======
 
 Language Processor Assignment
