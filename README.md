@@ -1,4 +1,4 @@
-Sasdcanner
+Scanner
 =======
 
 Language Processor Assignment
