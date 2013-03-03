@@ -1,4 +1,4 @@
-ds`canner
+Scanner
 =======
 
 Language Processor Assignment
