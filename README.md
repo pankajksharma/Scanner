@@ -1,4 +1,4 @@
-dddasscanner
+Scanner
 =======
 
 Language Processor Assignment
